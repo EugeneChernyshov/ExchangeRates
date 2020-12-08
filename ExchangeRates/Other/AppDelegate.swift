@@ -2,8 +2,9 @@
 //  AppDelegate.swift
 //  ExchangeRates
 //
-//  Created by apple on 04.12.2020.
-//
+//  Created by Evgeniy Chernyshov on 02/12/2020.
+//  Copyright © 2020 Evgeniy Chernyshov. All rights reserved.
+//  Swift 5
 
 import UIKit
 
